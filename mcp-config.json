@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "excel": {
+      "command": "D:\\Codex\\MPT_ur9\\.venv\\Scripts\\excel-mcp-server.exe",
+      "args": ["stdio", "--allow-dir", "D:\\Codex\\MPT_ur9"]
+    }
+  }
+}
